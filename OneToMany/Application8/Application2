@@ -1,0 +1,9 @@
+class Application2{
+ 
+ 
+ String name;
+ String version;
+ Developer developer;
+
+
+}
